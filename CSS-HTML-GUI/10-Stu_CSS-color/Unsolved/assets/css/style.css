@@ -1,0 +1,35 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+
+}
+  
+.container {
+  background-color: black;
+
+}
+
+#section-1 {
+text-emphasis-color: #fff;
+background-color: purple;
+}
+#section-2 {
+text-emphasis-color:  orange;
+background-color: blue;
+}
+#section-3 {
+  text-emphasis-color:  orange;
+  background-color: blue;
+}
+#section-4 {
+  text-emphasis-color: white;
+}
+#section-5 {
+  text-emphasis-color: white;
+}
+#section-6 {
+  text-emphasis-color: yellow;
+}

@@ -1,0 +1,25 @@
+/* TODO: Add typography */
+.lesson {
+    background-color: #e2d029;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+/* Fact 1 */
+#fact-1 {
+  background-color: #c9b822;
+  font-weight: bold;
+}
+
+/* TODO: Fact 2 */
+#fact-2 {
+  background-color: #c9b822;
+  font-size: 24px;
+}
+
+/* TODO: Fact 3 */
+#fact-3 {
+  background-color: #c9b822;
+  line-height: 50px;
+  
+}
